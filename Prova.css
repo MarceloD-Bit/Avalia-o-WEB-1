@@ -1,0 +1,39 @@
+ul{
+    text-align: center;
+}
+li{
+    list-style: none;
+    text-align: center;
+    
+}
+a{
+    color: white;
+    background-color:darkblue;
+    font-size: 21px;
+    border: 2px;
+}
+a:hover{
+    list-style: none;
+    color: red;
+    background-color: black
+    
+}
+ h2{
+    color:darkblue;
+    text-align: justify;
+    border-bottom: 15px;
+    font-family: verdana;
+    border-bottom: 3px solid darkblue;
+ }
+h3{
+    text-align: center;
+    color: darkblue;
+    font-family: verdana;
+}
+p{
+    font-family: verdana;
+    color: black;
+    text-align: justify;
+    
+
+}
